@@ -1,2 +1,2 @@
 # Logistic-Regression-from-Scratch
-Logistic regression model from scratch, contains 2 fitting methods using MSE and Log loss
+This Python script implements a custom Logistic Regression model from scratch (2 fitting methods using MSE and Log loss) and applies it to the breast cancer dataset for binary classification. The selected features are preprocessed using standard scaling. The model is trained using log loss and then evaluated on a test set. Finally, the accuracy of the model's predictions is calculated and displayed.
